@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I do some cool stuff on C, Go, Node.js
+
 <!--
 **yourcontainer/yourcontainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
